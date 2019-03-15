@@ -1,0 +1,1 @@
+SELECT * FROM GeneralLedger.ufn_QueryAllAnalyticAccounts (null)
